@@ -13,6 +13,11 @@
 /gltf/library.wasm
 compile_commands.json
 
+
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
 # Test files
 /data/
 /*.log

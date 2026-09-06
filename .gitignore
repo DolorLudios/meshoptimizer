@@ -6,6 +6,7 @@
 /.zed/
 
 # Build files
+/bin/
 /build/
 /cmake*/
 /out/
@@ -13,7 +14,7 @@
 /gltf/library.wasm
 compile_commands.json
 
-
+# Visual Studio (premake generated)
 *.vcxproj
 *.vcxproj.user
 *.vcxproj.filters
